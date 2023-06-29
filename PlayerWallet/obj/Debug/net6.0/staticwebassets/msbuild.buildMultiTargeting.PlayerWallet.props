@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PlayerWallet.props" />
+</Project>

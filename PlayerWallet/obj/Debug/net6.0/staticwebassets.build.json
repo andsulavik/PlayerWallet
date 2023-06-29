@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8IpxNQjqO5sELC3qfT723xhgvyAnT6gYsoizdp9LlVI=",
+  "Source": "PlayerWallet",
+  "BasePath": "_content/PlayerWallet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
